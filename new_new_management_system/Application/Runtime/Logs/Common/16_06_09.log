@@ -1,6 +1,0 @@
-[ 2016-06-09T22:51:18+08:00 ] ::1 /new_new_management_system/index.php/id/'2013014118'
-INFO: [ app_init ] --START--
-INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
-INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
-ERR: 无法加载模块:Id
-
